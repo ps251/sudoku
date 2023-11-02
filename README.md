@@ -1,4 +1,7 @@
 # SudokuGame
+Can be played on https://ps251.github.io/sudoku/
+
+Uses the sudoku-umd library on npm to generate the puzzles.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
 
